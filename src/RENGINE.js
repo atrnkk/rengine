@@ -1,5 +1,5 @@
-//== Library Written by jah255 ==\\
-//== Repo: https://github.com/jah255/RENGINE ==\\
+//== Library Written by reallypseudo ==\\
+//== Repo: https://github.com/reallypseudo/RENGINE ==\\
 
 const RENGINE = {
     version: "1.12.0",
