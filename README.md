@@ -1,5 +1,8 @@
 # RENGINE
 
+⚠️ Old and not updated ⚠️
+⚠️ Ignore the date uploaded this was written a few years ago I just decided to upload it. ⚠️
+
 Rusty 2D Engine/Library. Simplifies creating very simple games or interfaces with an html canvas in javascript. 
 
 Rengine is very light-weight and gives more power to the developer.
