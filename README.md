@@ -10,7 +10,7 @@ Rengine is very light-weight and gives more power to the developer.
 
 When using Rengine in a project please consider giving credit (Not required just encouraged. Ex: "runs on Rengine library").
 
-> #### **https://github.com/reallypseudo/RENGINE/labels/note Library is rarely updated anymore.**
+> #### **[https://github.com/reallypseudo/RENGINE/labels/note](https://github.com/reallypseudo/RENGINE/labels/note) Library is rarely updated anymore.**
 > 
 > I have moved on to other projects.
 > 
