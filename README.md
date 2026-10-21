@@ -1,27 +1,3 @@
-# RENGINE
-
-⚠️ Old and not updated ⚠️
-
-⚠️ Ignore the date uploaded this was written a few years ago I just decided to upload it. ⚠️
-
-Rusty 2D Engine/Library. Simplifies creating very simple games or interfaces with an html canvas in javascript. 
-
-Rengine is very light-weight and gives more power to the developer.
-
-When using Rengine in a project please consider giving credit (Not required just encouraged. Ex: "runs on Rengine library").
-
-> #### **[https://github.com/reallypseudo/RENGINE/labels/note](https://github.com/reallypseudo/RENGINE/labels/note) Library is rarely updated anymore.**
-> 
-> I have moved on to other projects.
-> 
-> I occasionaly push out updates here and there.
-> 
-> It is not hard to create new object types. I implemented ways to easily create new object types for other people.
->
-> This could definitely be remade way better with a better approach and structure.
-
------
-
 ## Getting Started
 To start you will need a canvas. You can either make your own manually or use `RENGINE.newCanvas()`.
 Then you will need to create a new `RENGINE.game` class pass through your canvas and some optional data.
@@ -133,12 +109,6 @@ game.objectDefaults["myCustomType"] = {x:0, y:0, width:0, height:0}; // If no da
 
 game.createObject({x:50, y:50, width:100, height:100, material:"black"}, "myCustomType"); // Draws a black square at (x=50, y=50) with a size of (width=100, height=100).
 ```
---------
-
-## Donations
-If you feel like donating to support the project you can donate to [My Paypal](https://paypal.me/RusstyPay?country.x=US&locale.x=en_US).
-Any amount is greatly appreciated because this is a very small project.
-
 --------
 
 ## Key Input
