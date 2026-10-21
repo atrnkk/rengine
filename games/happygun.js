@@ -483,7 +483,7 @@ window.addEventListener("load", ()=>{
     if (socket.id==id) {
       heal(90);
     }
-  }); // buggy fucking piece of shit
+  });
   
   socket.on("playerMovement", (data)=>{
     let character = players[data.id];
