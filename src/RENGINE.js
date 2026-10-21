@@ -1,6 +1,3 @@
-//== Library Written by reallypseudo ==\\
-//== Repo: https://github.com/reallypseudo/RENGINE ==\\
-
 const RENGINE = {
     version: "1.12.0",
     credits: "This was written by russtycrussty or rust. Free to use but please give credit.",
