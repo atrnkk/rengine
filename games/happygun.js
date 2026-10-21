@@ -1,6 +1,3 @@
-// Worked very hard on this...
-// It is my blood, sweat, tears, and flesh combined.
-
 const socket = io();
 
 window.addEventListener("load", ()=>{
