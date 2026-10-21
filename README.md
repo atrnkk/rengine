@@ -1,3 +1,5 @@
+Old canvas framework from middle school. Not maintained.
+
 ## Getting Started
 To start you will need a canvas. You can either make your own manually or use `RENGINE.newCanvas()`.
 Then you will need to create a new `RENGINE.game` class pass through your canvas and some optional data.
